@@ -1,6 +1,6 @@
 <template>
   <footer id="footer" ref="footer" class="footer fadeInUp animated">
-    © 2018 Mr.JooZH - All Rights Reserved
+    © 2018 Mr.JooZh - Template Come From Web
   </footer>
 </template>
 

@@ -13,7 +13,7 @@
         <nav class="nav-pc">
           <ul class="nav-list">
             <li class="nav-li" @click="changeActive($event,1)">
-              <router-link class="nav-li-link" :class="{'active':active==1}" to="/home"><i class="fa fa-home fa-fw"></i> 介绍</router-link>
+              <router-link class="nav-li-link" :class="{'active':active==1}" to="/home"><i class="fa fa-home fa-fw"></i> 主页</router-link>
             </li>
             <!-- <li class="nav-li" @click="changeActive($event,2)">
               <router-link class="nav-li-link" :class="{'active':active==2}" to="/subscribe"><i class="fa fa-pencil-square fa-fw"></i> 技能</router-link>
@@ -22,7 +22,7 @@
               <router-link class="nav-li-link" :class="{'active':active==3}" to="/about"><i class="fa fa-plus-square fa-fw"></i> 充电</router-link>
             </li> -->
             <li class="nav-li" @click="changeActive($event,4)">
-              <router-link class="nav-li-link" :class="{'active':active==4}" to="/services"><i class="fa fa-folder fa-fw"></i> 简历</router-link>
+              <router-link class="nav-li-link" :class="{'active':active==4}" to="/services"><i class="fa fa-file-text fa-fw"></i> 简历</router-link>
             </li>
             <li class="nav-li" @click="changeActive($event,5)">
               <router-link class="nav-li-link" :class="{'active':active==5}" to="/contact"><i class="fa fa-check-square fa-fw"></i> 表单</router-link>

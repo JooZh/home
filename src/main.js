@@ -9,6 +9,7 @@ import 'src/assets/css/animate.css'
 import 'src/assets/css/font-awesome.css'
 import 'src/assets/css/reset.css'
 import 'src/assets/css/layout.css'
+// import Bus from 'src/assets/js/bus'
 
 Vue.use(Alert)
 Vue.use(Confirm)
@@ -28,4 +29,5 @@ window.addEventListener('load', function () {
 })
 window.addEventListener('popstate', function () {
   window.location.reload()
+  // Bus.$emit('changeRouter',{index: 1})
 })

@@ -26,13 +26,14 @@ class Curve {
 export default {
   data () {
     return {
-      show: false,
+      show: true,
       canvas: {},
       ctx: {},
       curves_array: []
     }
   },
   mounted () {
+    this.init()
     setTimeout(() => {
       Bus.$emit('canvasStatus', this.show)
     }, 100)

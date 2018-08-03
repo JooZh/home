@@ -19,8 +19,8 @@
           </span>
         </div>
         <div class="hope-jobs">
-          <span>所在地：深圳</span>
-          <span>求职意向：Web 前端开发 小程序开发</span>
+          <div>目前所在地：深圳</div>
+          <div>求职意向：Web 前端、小程序、其他前端相关</div>
         </div>
       </div>
       <div class="items">
@@ -240,11 +240,11 @@
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">学过一些设计，在前端开发时候对细节比较有追求。(总感觉 1px 差距好大)</span>
+                <span class="list-c">在前端开发时候对细节比较有追求。(总感觉 1px 差距好大)</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">没有和大型团队共同开发的经验，有较强的自主编程能力及团队合作，团队交流能力。</span>
+                <span class="list-c">缺乏和大型团队共同开发的经验，有较强的自主编程能力及团队合作，团队交流能力。</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
@@ -252,7 +252,7 @@
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">在实验室寒假集训20天期间全程负责13位前端成员的入门到上手。</span>
+                <span class="list-c">有前端入门培训的经验，曾负责13位小伙伴的基础课培训。</span>
               </li>
             </ul>
           </div>
@@ -294,7 +294,6 @@ export default {
           font-size 12px
     a
       color yellow
-      // text-decoration underline
     .items
       margin-bottom 30px
       .header
@@ -323,7 +322,7 @@ export default {
             color fontServices(0.5)
         .type
           color fontServices(0.5)
-          font-size 15px
+          font-size 14px
           margin-bottom 8px
           display flex
           span
