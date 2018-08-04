@@ -70,7 +70,7 @@
             <span class="r">2018-05 ~ 2018-08</span>
           </div>
           <div class="lists">
-            <div class="lists-title">项目：网开创小程序</div>
+            <div class="lists-title">项目：网开创小程序 <a href="javascript:void(0)">[上线项目]</a></div>
             <ul class="lists-content">
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>. 类型：</span>
@@ -90,7 +90,7 @@
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>. 演示：</span>
-                <span class="list-c">在微信小程序中搜索 (网开创) 蓝色网开图标即是。</span>
+                <span class="list-c"><a href="javascript:void(0)">在微信小程序中搜索 ( <strong>网开创</strong> ) 蓝色网开图标即是。</a></span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>. 仓库：</span>
@@ -222,37 +222,66 @@
         </div>
       </div>
       <div class="items">
+        <div class="header">技能专长</div>
+        <div class="item">
+          <div class="lists">
+            <ul class="lists-content no-t">
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">前端语言：熟悉 JS 语言以及ES6常用新特性和语法，熟悉HTML5的新增API以及使用，熟悉CSS3以及常用的弹性布局。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">前端框架：熟悉jQuery，了解Vue.js和前端MVC开发模式。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">前端UI框架：熟悉BootStrap，ElementUI，AUI等响应式UI框架，熟悉有赞的小程序UI zanui-weapp 。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">前端技术栈：掌握微信小程序，开发过一个有60多个页面的在线B2C商城。熟悉APICloud跨平台App开发模式，开发过一款包含(商家，用户，骑手) 三端的仿美团模式的跨平台App，每个App页面都在40个以上包含登录注册，购物流程，订单流程，派送流程等。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">后端语言：了解php曾用面向过程的模式编写过一个博客程序，了解Node.js，编写过基于流传输的一个接收文件上传程序。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">后端框架：使用基于php 的thinkphp5框架编写过一个restful风格的小型微信小程序后台API服务程序。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">服务器：了解 CentOS 7.0 ,自己搭建过一个基于Nginx的Node服务器。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c"> 团队协作：熟悉基本的Git 团队合作模式。</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="items">
         <div class="header">自我评价</div>
         <div class="item">
           <div class="lists">
             <ul class="lists-content no-t">
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">目前会用的前端技术：Vue.js ，微信小程序 ，jQuery , APICloud (使用的都不是很深入)</span>
+                <span class="list-c">有较强的自主编程能力及团队合作，团队交流能力，但缺乏和大型团队共同开发的经验。</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">目前了解的后端技术：Node.js ，PHP (PHP不是很熟，现在正在学习 Node.js ...)</span>
+                <span class="list-c">在开发时候对细节比较有追求，努力达到像素级别还原原型图。</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">目前了解过的数据库：MongoDB ，MySQL (!!!数据库学过基本没用过)</span>
+                <span class="list-c">对于新技术上手速度比较快，有较强的学习能力。</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">在前端开发时候对细节比较有追求。(总感觉 1px 差距好大)</span>
-              </li>
-              <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">缺乏和大型团队共同开发的经验，有较强的自主编程能力及团队合作，团队交流能力。</span>
-              </li>
-              <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">对于新技术上手速度比较快，学习能力还是比较强的。</span>
-              </li>
-              <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">有前端入门培训的经验，曾负责13位小伙伴的基础课培训。</span>
+                <span class="list-c">有前端入门培训的经历，曾负责实验室13位小伙伴的基础课培训。</span>
               </li>
             </ul>
           </div>
