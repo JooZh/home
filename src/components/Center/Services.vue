@@ -23,37 +23,77 @@
           <div>求职意向：Web 前端、小程序、其他前端相关</div>
         </div>
       </div>
+
       <div class="items">
-        <div class="header">在校经历</div>
+        <div class="header">技能专长</div>
         <div class="item">
-          <div class="row item-name">
-            <span class="name">湖南农业大学东方科技学院</span>
-          </div>
-          <div class="type">
-            <span>专业：电子商务【本科】</span>
-            <span class="r">2015-09 ~ 2019-06</span>
-          </div>
           <div class="lists">
+            <div class="lists-title">前端技能：</div>
             <ul class="lists-content no-t">
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">加入信息科学技术学院互联网创新实验室，成为第 10 期成员。</span>
+                <span class="list-c">熟悉 JS 语言以及ES6常用新特性和语法.</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">完成实验室为期 1 年的培训和学习。</span>
+                <span class="list-c">掌握 HTML5 和 CSS3 以及常用的布局模式。</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">负责实验室第 11 期的招新工作和见习期的 WEB 前端方向培训。</span>
+                <span class="list-c">熟练使用 jQuery，用ES6语法编写过一个简易的仿jq类库</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">组队参加第十届大学生计算机设计大赛获得三等奖。</span>
+                <span class="list-c">了解 Vue.js 和前端MVC开发模式。</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">协作完成实验室项目【基于云计算的聚众评论数据分析系统 V1.0】并进行软著登记。</span>
+                <span class="list-c">熟悉 Mock.js 模拟数据的使用。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">熟练使用 BootStrap，ElementUI，AUI等响应式UI框架，以及有赞小程序UI zanui-weapp</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">掌握微信小程序开发方式，开发过一个有60多个页面的在线B2C商城。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">熟悉 APICloud 跨平台App开发模式，开发过一款包含(商家，用户，骑手) 三端的仿美团模式的跨平台App。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">了解 第三方登录 和 第三方支付 的前端实现流程</span>
+              </li>
+            </ul>
+          </div>
+          <div class="lists">
+            <div class="lists-title">后端技能：</div>
+            <ul class="lists-content no-t">
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">了解 PHP 曾用面向过程的模式编写过一个博客程序。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">了解 Node.js 编写过基于流传输的一个接收文件上传程序。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">了解 TP5 框架编写过一个 RESTful API 风格的小型微信小程序后台API服务程序。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">了解 CentOS 7.0 自己搭建过一个使用 Nginx 的 Node 服务器。</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">了解 第三方登录 和 第三方支付 的后端实现流程</span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
+                <span class="list-c">熟悉基本的 Git 团队合作模式。</span>
               </li>
             </ul>
           </div>
@@ -74,19 +114,24 @@
             <ul class="lists-content">
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>. 类型：</span>
-                <span class="list-c">原生小程序应用</span>
+                <span class="list-c">* 原生小程序应用</span>
               </li>
               <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>. 简介：</span>
-                <span class="list-c">是一个在线商城类型的小程序应用，是公司产品四端 (PC,小程序,手机/微信,App) 之一</span>
+                <span class="list-t"><i class="icon fa fa-pencil"></i>. 职责：</span>
+                <span class="list-c">
+                  <span>* 根据原型图和设计图完成UI界面和交互流程。</span><br>
+                  <span>* 根据API接口文档完成与后端服务器的数据交互。</span>
+                </span>
               </li>
               <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>. 使用：</span>
-                <span class="list-c">采用微信小程序原生方式开发，使用了<i>zanui-weapp 3.0+</i>的部分 UI 组件。</span>
-              </li>
-              <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>. 参与：</span>
-                <span class="list-c">项目参与度 90% (创建,UI,交互)</span>
+                <span class="list-t"><i class="icon fa fa-pencil"></i>. 描述：</span>
+                <span class="list-c">
+                  <span>* 产品是一款微信小程序，采用原生微信官方语言进行编写。</span><br>
+                  <span>* 使用了内置的UI组件和有赞的 <i>zan-weapp</i> UI 组件进行界面的搭建和交互流程。</span><br>
+                  <span>* JS的交互逻辑全部使用的是 ES6 的语法。</span><br>
+                  <span>* 产品一共有60+个页面，包含了第三方登录、支付功能。</span><br>
+                  <span>* 项目参与度 90%。</span>
+                </span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>. 演示：</span>
@@ -101,23 +146,27 @@
             </ul>
           </div>
           <div class="lists">
-            <div class="lists-title">项目：深圳阿凡提(商家,骑手,用户)三端</div>
+            <div class="lists-title">项目：APICloud应用(商家,骑手,用户)三端</div>
             <ul class="lists-content">
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>. 类型：</span>
-                <span class="list-c">原生 <i>APICloud</i> 跨平台移动端 App</span>
+                <span class="list-c">* 原生 <i>APICloud</i> 跨平台移动端 App</span>
               </li>
               <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>. 简介：</span>
-                <span class="list-c">是一个类似美团外卖模式的跨平台 App，是公司的一个外包产品。</span>
+                <span class="list-t"><i class="icon fa fa-pencil"></i>. 职责：</span>
+                <span class="list-c">
+                  <span>* 根据原型图和设计图完成三端的静态页面和交互流程。</span><br>
+                  <span>* 根据API接口文档完成与后端服务器的数据交互。</span>
+                </span>
               </li>
               <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>. 使用：</span>
-                <span class="list-c">使用 <i>APICloud</i> 平台，采用了平台内置的 <i>AUI 2.0+</i> 移动 UI 框架，和 <i>Vue.js 2.5+</i> 非组件化的方式进行应用开发。</span>
-              </li>
-              <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>. 参与：</span>
-                <span class="list-c">产品三端的创建和交互逻辑的实现。参与度 60%</span>
+                <span class="list-t"><i class="icon fa fa-pencil"></i>. 描述：</span>
+                <span class="list-c">
+                  <span>* 在 <i>APICloud</i> 平台进行的跨平台App开发，兼容IOS和安卓平台。</span><br>
+                  <span>* 使用了平台内置的AUI组件和 <i>Vue2.5+</i> 的非组件化模式进行开发。</span><br>
+                  <span>* 三端一共约120个页面，包含了购物流程，配送流程，商家管理等模块。</span><br>
+                  <span>* 项目参与度 60%。</span>
+                </span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>. 演示：</span>
@@ -159,6 +208,7 @@
           </div>
         </div>
       </div>
+
       <div class="items">
         <div class="header">个人项目</div>
         <div class="item">
@@ -219,44 +269,56 @@
               </li>
             </ul>
           </div>
+          <div class="lists">
+            <div class="lists-title">其他小玩意</div>
+            <ul class="lists-content">
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>. 时钟：</span>
+                <span class="list-c">真实模拟的时钟，时针和分针会慢慢转动 <a href="https://joozh.github.io/joozh/Projacts/js-clock/clock.html" target="_blank"> [点击查看]</a></span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>. 音乐：</span>
+                <span class="list-c">带歌词滚动的简易音乐播放器 <a href="https://joozh.github.io/joozh/Projacts/js-music/index.html" target="_blank"> [点击查看]</a></span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>. 笔记：</span>
+                <span class="list-c">Vue 1.0 的学习笔记 <a href="https://joozh.github.io/joozh/Projacts/vue-study/index.html" target="_blank"> [点击查看]</a></span>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="items">
-        <div class="header">技能专长</div>
+        <div class="header">在校经历</div>
         <div class="item">
+          <div class="row item-name">
+            <span class="name">湖南农业大学东方科技学院</span>
+          </div>
+          <div class="type">
+            <span>专业：电子商务【本科】</span>
+            <span class="r">2015-09 ~ 2019-06</span>
+          </div>
           <div class="lists">
             <ul class="lists-content no-t">
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">前端语言：熟悉 JS 语言以及ES6常用新特性和语法，熟悉HTML5的新增API以及使用，熟悉CSS3以及常用的弹性布局。</span>
+                <span class="list-c">加入信息科学技术学院互联网创新实验室，成为第 10 期成员。</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">前端框架：熟悉jQuery，了解Vue.js和前端MVC开发模式。</span>
+                <span class="list-c">完成实验室为期 1 年的培训和学习。</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">前端UI框架：熟悉BootStrap，ElementUI，AUI等响应式UI框架，熟悉有赞的小程序UI zanui-weapp 。</span>
+                <span class="list-c">负责实验室第 11 期的招新工作和见习期的 WEB 前端方向培训。</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">前端技术栈：掌握微信小程序，开发过一个有60多个页面的在线B2C商城。熟悉APICloud跨平台App开发模式，开发过一款包含(商家，用户，骑手) 三端的仿美团模式的跨平台App，每个App页面都在40个以上包含登录注册，购物流程，订单流程，派送流程等。</span>
+                <span class="list-c">组队参加第十届大学生计算机设计大赛获得三等奖。</span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">后端语言：了解php曾用面向过程的模式编写过一个博客程序，了解Node.js，编写过基于流传输的一个接收文件上传程序。</span>
-              </li>
-              <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">后端框架：使用基于php 的thinkphp5框架编写过一个restful风格的小型微信小程序后台API服务程序。</span>
-              </li>
-              <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">服务器：了解 CentOS 7.0 ,自己搭建过一个基于Nginx的Node服务器。</span>
-              </li>
-              <li class="list">
-                <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c"> 团队协作：熟悉基本的Git 团队合作模式。</span>
+                <span class="list-c">协作完成实验室项目【基于云计算的聚众评论数据分析系统 V1.0】并进行软著登记。</span>
               </li>
             </ul>
           </div>
@@ -282,6 +344,27 @@
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
                 <span class="list-c">有前端入门培训的经历，曾负责实验室13位小伙伴的基础课培训。</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="items">
+        <div class="header">其他链接</div>
+        <div class="item">
+          <div class="lists">
+            <ul class="lists-content">
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>. 主页:</span>
+                <span class="list-c"><a href="https://joozh.github.io/home" target="_blank">https://joozh.github.io/home</a></span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>. 博客:</span>
+                <span class="list-c"><a href="https://joozh.github.io" target="_blank">https://joozh.github.io</a></span>
+              </li>
+              <li class="list">
+                <span class="list-t"><i class="icon fa fa-pencil"></i>. 仓库:</span>
+                <span class="list-c"><a href="https://github.com/JooZh" target="_blank">https://github.com/JooZh</a></span>
               </li>
             </ul>
           </div>
@@ -385,6 +468,9 @@ export default {
                   border-radius 10px
                   position relative
                   top -1px
+                span
+                  margin-bottom 4px
+                  display inline-block
 @media screen and (max-width:996px)
   .content
     padding 57px
