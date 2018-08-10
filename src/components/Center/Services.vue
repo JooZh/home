@@ -45,7 +45,7 @@
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
-                <span class="list-c">熟练使用 jQuery，用ES6语法编写过一个简易的仿jq类库</span>
+                <span class="list-c">熟练使用 jQuery，用 ES6 语法编写过一个简易的仿jq类库 <a href="https://github.com/JooZh/min-jQuery/blob/master/slove.js" target="_blank">[查看源码]</a></span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>...</span>
