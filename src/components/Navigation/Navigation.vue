@@ -21,7 +21,10 @@
           <router-link class="nav-li-link" :class="{'active':active==5}" to="/contact"><i class="fa fa-check-square fa-fw"></i> 表单验证</router-link>
         </li>
         <li class="nav-li">
-          <a class="nav-li-link" href="https://joozh.github.io/" target="_blank"><i class="fa fa-pencil-square fa-fw"></i> 我的博客</a>
+          <a class="nav-li-link" href="/music"><i class="fa fa-music fa-fw"></i> 音乐项目</a>
+        </li>
+        <li class="nav-li">
+          <a class="nav-li-link" href="/blog"><i class="fa fa-pencil-square fa-fw"></i> 我的博客</a>
         </li>
         <li class="nav-li" @click="ctrlCanvas">
           <a class="nav-li-link"><i class="fa fa-fw" :class="cShow?'fa-toggle-on':'fa-toggle-off'"></i> 背景动画</a>

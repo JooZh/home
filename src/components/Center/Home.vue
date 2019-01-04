@@ -16,8 +16,9 @@
         <div class="in">
           <div class="hello">Hey Guys!</div>
           <div class="text">{{text}}</div>
-          <div class="bf">正在设计中,宁缺勿滥</div>
-          <div class="in-line">采用 Vue 组件化开发方式重构</div>
+          <div class="bf"><a href="/music">QQ音乐WebApp</a></div>
+          <div class="in-line"><a href="/music">[点击体验]</a></div>
+          <div class="in-line">原生体验完美滑动与缓存</div>
           <div class="in-line">兼容手机微信移动端和电脑端</div>
           <div class="in-line">如体验不便，别生气 <i class="fa fa-smile-o fa-fw"></i></div>
           <div class="ewm">

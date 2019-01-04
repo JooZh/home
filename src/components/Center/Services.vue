@@ -458,11 +458,11 @@
             <ul class="lists-content">
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>. 主页:</span>
-                <span class="list-c"><a href="https://joozh.github.io/home" target="_blank">https://joozh.github.io/home</a></span>
+                <span class="list-c"><a href="https://www.joozh.cn" target="_blank">https://www.joozh.cn</a></span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>. 博客:</span>
-                <span class="list-c"><a href="https://joozh.github.io" target="_blank">https://joozh.github.io</a></span>
+                <span class="list-c"><a href="https://www.joozh.cn/blog" target="_blank">https://www.joozh.cn/blog</a></span>
               </li>
               <li class="list">
                 <span class="list-t"><i class="icon fa fa-pencil"></i>. 仓库:</span>

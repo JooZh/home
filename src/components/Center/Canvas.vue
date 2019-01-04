@@ -33,6 +33,7 @@ export default {
     }
   },
   mounted () {
+    console.log('new')
     this.init()
     setTimeout(() => {
       Bus.$emit('canvasStatus', this.show)
